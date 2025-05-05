@@ -56,6 +56,7 @@ Set dynamic reorder points based on historical quantity sold and seasonality.
 1)Monitor Lead Time per Supplier: Track average delivery time to anticipate delays.
 
 2)Create a Supplier Scorecard: Evaluate suppliers monthly on:
+
                     On-time delivery %
                     Lead time trend
                     Fill rate
