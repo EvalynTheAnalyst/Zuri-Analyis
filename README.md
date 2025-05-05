@@ -65,7 +65,9 @@ Set dynamic reorder points based on historical quantity sold and seasonality.
 
  ## Sales Performance Recovery
 Boost Low-performing Categories: -Use bundles, cross-sell strategies, or seasonal discounts.
+
 Targeted Marketing by Region and Segment: -Customize offers for regions like Nairobi and Mombasa to boost lagging sales.
+
 Improve customer engagement- By marketing based on customer product preference and also encourage product reviews.
 
 
