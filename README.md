@@ -19,6 +19,10 @@ Power BI: A business intelligence tool used to create dynamic visualizations tha
 
 DAX (Data Analysis Expressions): Utilized to develop advanced calculations and insights within the dashboard.
 
+## OverView ##
+![image](https://github.com/user-attachments/assets/64d14eea-15ef-405a-bf8f-8459845c96b6)
+![image](https://github.com/user-attachments/assets/df121393-0e69-4fd5-998d-2dcc376282c4)
+
 
 
 ## Findings ##
